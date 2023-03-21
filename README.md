@@ -1,6 +1,6 @@
 # red-tetris
 
-**Red Tetris** is an online Tetris game where you play against an opponent, and the last player alive wins.
+[Online](https://tetris.trixky.com/) tetris game where you play against an opponent, and the last player alive wins.
 
 <p align="center">
     <img src="resources/game.png" alt="View while in a game" width="765" height="783" />
